@@ -46,12 +46,15 @@ I'm a Moscow-based fullstack developer working across **Vue.js and Django**. I d
 
 `June 2025 — present` · Moscow
 
-Building an online platform for professional certification and training.
+Contributing to multiple products across the company. Two of the most significant projects in my work are the [independent qualification assessment platform](https://ntsok.ru/) and the [Worxspace](https://worxspace.ru/) corporate messenger.
 
 - create responsive interfaces with the Vue.js Composition API and Inertia.js;
 - develop Django backend services and REST APIs with Django REST Framework;
+- set up user accounts and dashboards in Worxspace;
+- implemented one-to-one and group P2P audio/video calls;
 - work with PostgreSQL and Django ORM;
 - write Pytest integration tests and Cypress E2E scenarios;
+- configure CI/CD workflows and pipelines for Git repositories;
 - contribute to requirements discovery, solution discussions, and prototyping.
 
 ### Junior Frontend Developer · Freelance
@@ -61,6 +64,26 @@ Building an online platform for professional certification and training.
 Built a responsive, cross-browser Vue.js SPA for a commercial client.
 
 ## Featured projects
+
+### 💬 [Worxspace](https://worxspace.ru/)
+
+A corporate messenger for communication and collaboration within teams.
+
+`Vue.js` `Django` `P2P` `Audio/Video`
+
+- set up user accounts and dashboards;
+- implemented P2P audio and video calls;
+- added group calls for team communication.
+
+### 🧾 [Independent Qualification Assessment Platform](https://ntsok.ru/)
+
+A platform that handles applicant registration and professional qualification exams for real estate specialists.
+
+`Vue.js` `Django` `PostgreSQL` `REST API`
+
+- developed responsive user flows and personal accounts;
+- expanded backend services and REST API integration;
+- covered key flows with integration and E2E tests.
 
 ### 🎬 Vkino
 
@@ -106,7 +129,8 @@ A Telegram bot for conversations powered by the OpenAI API.
 | Program | Organization | Period |
 |:--|:--|:--|
 | Web Developer, 1.5-year program | VK Technopark | 2025–2026 |
-| Web Developer | BMSTU Digital Department | 2024 |
+| Frontend Developer | BMSTU Digital Department | 2024–2025 |
+| Web Developer | BMSTU Digital Department | 2023–2024 |
 
 ## GitHub stats
 
