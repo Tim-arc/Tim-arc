@@ -1,148 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f6e56&height=200&section=header&text=Tim-arc&fontSize=60&fontColor=5DCAA5&fontAlignY=38&desc=Fullstack-разработчик%20%7C%20МГТУ%20%7C%20WebWorx&descAlignY=58&descColor=9FE1CB&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2B,35:0B5563,70:6D28D9,100:EC4899&height=220&section=header&text=TIM%20KOSYKHIN&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=Fullstack%20Developer%20%E2%80%A2%20Vue.js%20%E2%80%A2%20Django%20%E2%80%A2%20Go&descAlignY=63&descColor=D9F9FF&animation=fadeIn" alt="Тимофей Косыхин — Fullstack-разработчик"/>
+
+### Превращаю продуктовые задачи в понятные интерфейсы и надёжный backend
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Timtim325-27A7E7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Timtim325)
+[![Email](https://img.shields.io/badge/Email-написать-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timakos179@yandex.ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timofey-kosykhin-475696406/)
 
 </div>
 
+## Привет! Я Тимофей 👋
+
+Fullstack-разработчик из Москвы. Работаю на стыке **Vue.js и Django**, проектирую API, пишу тесты и довожу фичи от обсуждения требований до релиза.
+
+- 💼 Fullstack-разработчик в **ООО «Системы и Сети»**
+- 🎓 Выпускник МГТУ им. Н. Э. Баумана — бакалавр по направлению «Информатика и вычислительная техника»
+- 🧩 Основной стек: **Vue.js · TypeScript · Django · Go · PostgreSQL**
+- 🎯 Интересуюсь продуктовой разработкой, архитектурой и качеством интерфейсов
+
+## Технологический стек
+
+| Направление | Технологии |
+|:--|:--|
+| **Frontend** | Vue.js, Nuxt.js, TypeScript, JavaScript, Inertia.js, Tailwind CSS, Vite |
+| **Backend** | Django, Django REST Framework, Go, Python, REST API |
+| **Данные** | PostgreSQL, SQLite, Django ORM |
+| **Качество** | Pytest, Cypress, unit-, integration- и E2E-тесты |
+| **Инструменты** | Docker, Git, Linux, CI/CD |
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=500&color=1D9E75&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Fullstack-разработчик+на+Vue.js+%2B+Django;Строю+продукты+в+WebWorx+%F0%9F%94%A8;Студент+МГТУ+%7C+Технопарк+ВК)](https://git.io/typing-svg)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
----
+## Опыт
 
-## 👋 О себе
+### Fullstack-разработчик · ООО «Системы и Сети»
 
-```go
-package main
+`Июнь 2025 — настоящее время` · Москва
 
-type Developer struct {
-    Имя         string
-    Роль        string
-    Город       string
-    Универ      string
-    Стек        []string
-    Сейчас      string
-}
+Разрабатываю онлайн-платформу для аттестации и обучения специалистов.
 
-func main() {
-    тим := Developer{
-        Имя:     "Косыхин Тимофей Фёдорович",
-        Роль:    "Fullstack-разработчик",
-        Город:   "Москва",
-        Универ:  "МГТУ им. Баумана — ИВТ, 2022–2026",
-        Стек:    []string{"Vue.js", "Django", "Go", "PostgreSQL", "Docker"},
-        Сейчас:  "Разрабатываю в WebWorx 🚀",
-    }
-}
-```
+- создаю адаптивные интерфейсы на Vue.js Composition API и Inertia.js;
+- развиваю backend на Django и REST API на Django REST Framework;
+- работаю с PostgreSQL и Django ORM;
+- пишу интеграционные тесты на Pytest и E2E-сценарии на Cypress;
+- участвую в сборе требований, обсуждении решений и прототипировании.
 
----
+### Junior Frontend Developer · Фриланс
 
-## 🛠 Технологии
+`Сентябрь — ноябрь 2024` · Москва
 
-<div align="center">
+Разработал адаптивное кроссбраузерное SPA на Vue.js для коммерческого заказчика.
 
-### Языки
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## Избранные проекты
 
-### Фронтенд
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🎬 Vkino
 
-### Бэкенд и БД
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+Стриминговая платформа в стиле онлайн-кинотеатра, созданная командой из четырёх человек в Технопарке VK.
 
-### Инструменты
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+`Go` `TypeScript` `PostgreSQL` `Docker`
 
-</div>
+- SPA-архитектура, маршрутизация и библиотека компонентов;
+- Clean Architecture, проектирование API и unit-тесты с моками;
+- адаптивный интерфейс и интеграция с backend API.
 
----
+[Frontend](https://github.com/frontend-park-mail-ru/2026_1_Vkino) · [Backend](https://github.com/go-park-mail-ru/2026_1_Vkino)
 
-## 📊 Статистика GitHub
+### 💪 Fitness App
 
-<div align="center">
+Трекер активности — дипломный проект Цифровой кафедры МГТУ.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tim-arc&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=1D9E75&ring_color=1D9E75&icon_color=5DCAA5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-arc&layout=compact&langs_count=8&theme=github_dark_dimmed&border_color=1D9E75"/>
+`Django` `Python` `REST API`
 
-</div>
+- компонентная архитектура и управление состоянием;
+- интерфейсы основных сценариев учёта активности;
+- интеграция клиентской части с API.
+
+### 🤖 ChatGPT Telegram Bot
+
+Telegram-бот для диалогов с моделью через OpenAI API.
+
+`Python` `pyTelegramBotAPI` `OpenAI API`
+
+- обработка сообщений в реальном времени;
+- интеграция Telegram Bot API и OpenAI API.
+
+## Образование
+
+### МГТУ им. Н. Э. Баумана
+
+**Бакалавр · Информатика и вычислительная техника (ИУ6)**
+
+`2022–2026` · Бакалавриат окончен
+
+### Дополнительное обучение
+
+| Программа | Организация | Период |
+|:--|:--|:--|
+| Веб-разработчик, 1,5 года | Технопарк VK | 2025–2026 |
+| Веб-разработчик | Цифровая кафедра МГТУ | 2024 |
+
+## GitHub в цифрах
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tim-arc&theme=github-dark-blue&border=1D9E75&ring=1D9E75&fire=5DCAA5&currStreakLabel=5DCAA5)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Проекты
-
-<div align="center">
-
-[![Backend](https://img.shields.io/badge/Backend-go--park--mail--ru%2F2026__1__Vkino-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/go-park-mail-ru/2026_1_Vkino)
-[![Frontend](https://img.shields.io/badge/Frontend-frontend--park--mail--ru%2F2026__1__Vkino-0f6e56?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontend-park-mail-ru/2026_1_Vkino)
-
-</div>
-
----
-
-## 🎓 Образование и сертификаты
-
-### 🏛 МГТУ им. Н.Э. Баумана
-**Бакалавриат · Информатика и вычислительная техника (ИУ6) · 2022 – 2026**
-
-### 📚 Дополнительное обучение
-
-| Курс | Организация | Год | Сертификат |
-|------|------------|-----|------------|
-| Веб-разработчик (1.5 года) | Технопарк ВК | 2025–2026 | ⏳ В процессе |
-| Веб-разработчик | Цифровая кафедра МГТУ | 2024 | 📜 [Сертификат](#) |
-
-> 💡 *Сканы сертификатов и диплома доступны в [репозитории CV](https://github.com/Tim-arc/cv) или по запросу.*
-
----
-
-## 💼 Опыт работы
-
-**Fullstack-разработчик @ WebWorx** · *Июн. 2025 – н.в. · Москва*
-> Онлайн-платформа для аттестации и обучения специалистов
-
-- Vue.js + Django · PostgreSQL + Django ORM · REST API (DRF)
-- Адаптивные интерфейсы на Vue.js Composition API + Inertia.js
-- Интеграционные тесты (Pytest) + E2E-тесты (Cypress)
-- Взаимодействие с заказчиком: требования, прототипы
-
-**Junior Frontend Developer @ Фриланс** · *Сен. – Ноя. 2024 · Москва*
-> Адаптивный кроссбраузерный SPA на Vue.js для коммерческого заказчика
-
----
-
-## 📬 Контакты
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Timtim325-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Timtim325)
-[![Email](https://img.shields.io/badge/Email-timakos179@yandex.ru-EA4335?style=for-the-badge&logo=yandex&logoColor=white)](mailto:timakos179@yandex.ru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Тимофей_Косыхин-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timofey-kosykhin-475696406/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Timtim325-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Timtim325)
+<img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim-arc&theme=tokyonight" alt="Статистика GitHub Тимофея"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tim-arc&theme=tokyonight" alt="Репозитории по языкам программирования"/>
 
 </div>
 
@@ -150,8 +121,10 @@ func main() {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,50:1a1f2e,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer"/>
+### Открыт к интересным продуктовым задачам и сильным инженерным командам
 
-<sub>Сделано с 💚 · 724 контрибуции за год и продолжаю</sub>
+[Telegram](https://t.me/Timtim325) · [Email](mailto:timakos179@yandex.ru) · [LinkedIn](https://www.linkedin.com/in/timofey-kosykhin-475696406/) · [LeetCode](https://leetcode.com/u/Timtim325)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:6D28D9,70:0B5563,100:071A2B&height=28&section=footer" alt="Декоративная цветная полоса"/>
 
 </div>

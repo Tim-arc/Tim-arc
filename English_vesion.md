@@ -1,168 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f6e56&height=200&section=header&text=Tim-arc&fontSize=60&fontColor=5DCAA5&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20BMSTU%20%7C%20WebWorx&descAlignY=58&descColor=9FE1CB&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2B,35:0B5563,70:6D28D9,100:EC4899&height=220&section=header&text=TIM%20KOSYKHIN&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=Fullstack%20Developer%20%E2%80%A2%20Vue.js%20%E2%80%A2%20Django%20%E2%80%A2%20Go&descAlignY=63&descColor=D9F9FF&animation=fadeIn" alt="Timofey Kosykhin — Fullstack Developer"/>
+
+### I turn product requirements into clear interfaces and reliable backend systems
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Timtim325-27A7E7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Timtim325)
+[![Email](https://img.shields.io/badge/Email-get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timakos179@yandex.ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timofey-kosykhin-475696406/)
 
 </div>
+
+## Hi, I'm Timofey 👋
+
+I'm a Moscow-based fullstack developer working across **Vue.js and Django**. I design APIs, write tests, and take features from requirement discussions through production delivery.
+
+- 💼 Fullstack Developer at **Systems and Networks LLC (ООО «Системы и Сети»)**
+- 🎓 BMSTU graduate with a Bachelor's degree in Computer Science and Engineering
+- 🧩 Core stack: **Vue.js · TypeScript · Django · Go · PostgreSQL**
+- 🎯 Interested in product engineering, architecture, and high-quality interfaces
+
+## Tech stack
+
+| Area | Technologies |
+|:--|:--|
+| **Frontend** | Vue.js, Nuxt.js, TypeScript, JavaScript, Inertia.js, Tailwind CSS, Vite |
+| **Backend** | Django, Django REST Framework, Go, Python, REST APIs |
+| **Data** | PostgreSQL, SQLite, Django ORM |
+| **Quality** | Pytest, Cypress, unit, integration, and E2E testing |
+| **Tooling** | Docker, Git, Linux, CI/CD |
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=500&color=1D9E75&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Vue.js+%2B+Django+fullstack+developer;Building+things+at+WebWorx+%F0%9F%94%A8;BMSTU+CS+student+%7C+VK+Technopark)](https://git.io/typing-svg)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
----
+## Experience
 
-## 👋 About Me
+### Fullstack Developer · Systems and Networks LLC (ООО «Системы и Сети»)
 
-```go
-package main
+`June 2025 — present` · Moscow
 
-type Developer struct {
-    Name       string
-    Role       string
-    Location   string
-    University string
-    Stack      []string
-    Currently  string
-}
+Building an online platform for professional certification and training.
 
-func main() {
-    tim := Developer{
-        Name:       "Timofey Kosykhin",
-        Role:       "Fullstack Developer",
-        Location:   "Moscow, Russia",
-        University: "BMSTU (Bauman) — CS, 2022–2026",
-        Stack:      []string{"Vue.js", "Django", "Go", "PostgreSQL", "Docker"},
-        Currently:  "Building at WebWorx 🚀",
-    }
-}
-```
+- create responsive interfaces with the Vue.js Composition API and Inertia.js;
+- develop Django backend services and REST APIs with Django REST Framework;
+- work with PostgreSQL and Django ORM;
+- write Pytest integration tests and Cypress E2E scenarios;
+- contribute to requirements discovery, solution discussions, and prototyping.
 
----
+### Junior Frontend Developer · Freelance
 
-## 🛠 Tech Stack
+`September — November 2024` · Moscow
 
-<div align="center">
+Built a responsive, cross-browser Vue.js SPA for a commercial client.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## Featured projects
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🎬 Vkino
 
-### Backend & DB
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+A streaming platform built by a four-person team at VK Technopark.
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+`Go` `TypeScript` `PostgreSQL` `Docker`
 
-</div>
+- SPA architecture, routing, and a reusable component library;
+- Clean Architecture, API design, and unit tests with mocks;
+- responsive UI and backend API integration.
 
----
+[Frontend](https://github.com/frontend-park-mail-ru/2026_1_Vkino) · [Backend](https://github.com/go-park-mail-ru/2026_1_Vkino)
 
-## 📊 GitHub Stats
+### 💪 Fitness App
 
-<div align="center">
+An activity tracker built as a BMSTU Digital Department diploma project.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tim-arc&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=1D9E75&ring_color=1D9E75&icon_color=5DCAA5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-arc&layout=compact&langs_count=8&theme=github_dark_dimmed&border_color=1D9E75"/>
+`Django` `Python` `REST API`
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tim-arc&theme=github-dark-blue&border=1D9E75&ring=1D9E75&fire=5DCAA5&currStreakLabel=5DCAA5)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Vkino Backend](https://github-readme-stats.vercel.app/api/pin/?username=go-park-mail-ru&repo=2026_1_Vkino&theme=github_dark_dimmed&border_color=1D9E75)](https://github.com/go-park-mail-ru/2026_1_Vkino)
-[![Vkino Frontend](https://github-readme-stats.vercel.app/api/pin/?username=frontend-park-mail-ru&repo=2026_1_Vkino&theme=github_dark_dimmed&border_color=1D9E75)](https://github.com/frontend-park-mail-ru/2026_1_Vkino)
-
-</div>
-
-### 🎬 Vkino — Netflix-style Streaming Platform
-> VK Technopark team project (4 people) · Go + TypeScript + PostgreSQL + Docker
-
-- 🔧 SPA architecture, routing, component library (Frontend)
-- ⚙️ Clean architecture, API design, unit tests with mocks (Backend)
-- 📱 Adaptive UI with backend API integration
-
-### 💪 Fitness App — Activity Tracker
-> BMSTU Digital Department diploma project · Django + Python + REST API
-
-- 🏗 Component architecture, state management, API integration
-- 📊 Interfaces for core activity tracking scenarios
+- component architecture and state management;
+- interfaces for core activity-tracking scenarios;
+- client integration with the application API.
 
 ### 🤖 ChatGPT Telegram Bot
-> Python + pyTelegramBotAPI + OpenAI API
 
-- Real-time message processing via Telegram
-- OpenAI API integration for conversational responses
+A Telegram bot for conversations powered by the OpenAI API.
 
----
+`Python` `pyTelegramBotAPI` `OpenAI API`
 
-## 🎓 Education & Certificates
+- real-time message processing;
+- Telegram Bot API and OpenAI API integration.
 
-### 🏛 BMSTU (Bauman Moscow State Technical University)
-**Bachelor's · Computer Science (FIU) · 2022 – 2026**
+## Education
 
-### 📚 Additional Education
+### Bauman Moscow State Technical University
 
-| Course | Organization | Year | Certificate |
-|--------|-------------|------|-------------|
-| Web Developer (1.5y) | VK Technopark | 2025–2026 |  In progress |
-| Frontend Developer | BMSTU Digital Department | 2025 | 📜 [Certificate](#) |
-| Web Developer | BMSTU Digital Department | 2024 | 📜 [Certificate](#) |
+**Bachelor's degree · Computer Science and Engineering (IU6)**
 
-> 💡 *Certificates and diploma scans are available in the [CV repository](https://github.com/Tim-arc/cv) or upon request.*
+`2022–2026` · Graduated
 
----
+### Additional education
 
-## 💼 Work Experience
+| Program | Organization | Period |
+|:--|:--|:--|
+| Web Developer, 1.5-year program | VK Technopark | 2025–2026 |
+| Web Developer | BMSTU Digital Department | 2024 |
 
-**Fullstack Developer @ WebWorx** · *Jun 2025 – present · Moscow*
-> Online platform for professional certification and training
-
-- Vue.js + Django · PostgreSQL + Django ORM · REST API (DRF)
-- Vue.js Composition API + Inertia.js adaptive interfaces
-- Integration tests (Pytest) + E2E tests (Cypress)
-- Client communication: requirements, prototypes
-
-**Junior Frontend Developer @ Freelance** · *Sep – Nov 2024 · Moscow*
-> Adaptive cross-browser SPA on Vue.js for commercial client
-
----
-
-## 📬 Contact
+## GitHub stats
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Timtim325-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Timtim325)
-[![Email](https://img.shields.io/badge/Email-timakos179@yandex.ru-EA4335?style=for-the-badge&logo=yandex&logoColor=white)](mailto:timakos179@yandex.ru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timofey_Kosykhin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timofey-kosykhin-475696406/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Timtim325-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Timtim325)
+<img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim-arc&theme=tokyonight" alt="Timofey's GitHub statistics"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tim-arc&theme=tokyonight" alt="Repositories by programming language"/>
 
 </div>
 
@@ -170,8 +121,10 @@ func main() {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,50:1a1f2e,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer"/>
+### Open to challenging product work and strong engineering teams
 
-<sub>Built with 💚 · 724 contributions this year and counting</sub>
+[Telegram](https://t.me/Timtim325) · [Email](mailto:timakos179@yandex.ru) · [LinkedIn](https://www.linkedin.com/in/timofey-kosykhin-475696406/) · [LeetCode](https://leetcode.com/u/Timtim325)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:6D28D9,70:0B5563,100:071A2B&height=28&section=footer" alt="Decorative color bar"/>
 
 </div>
